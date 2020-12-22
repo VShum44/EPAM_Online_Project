@@ -29,7 +29,7 @@ public class OptionalTask {
         int n = Integer.parseInt(reader.readLine());
         Integer [] numbers = new Integer[n];
         System.out.println("---------------------------");
-        System.out.println("Теперь вводите числа:");
+        System.out.println("Теперь вводите числа(каждое  с новой строки):");
 
         for (int i = 0; i < n; i++) {
             numbers[i] = Integer.parseInt(reader.readLine());

@@ -22,6 +22,7 @@
     </build>
     <modules>
         <module>Fundamentals_Java</module>
+        <module>JavaClasses</module>
     </modules>
 
 
